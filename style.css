@@ -487,21 +487,13 @@
 .an-award-winning-platform-and-services-loved-by-customers {
   color: #403c3c;
   text-align: center;
-  font-family: "-", sans-serif;
+  font-family: "PlusJakartaSans-Bold", sans-serif;
   font-size: 36px;
-  font-weight: 400;
+  font-weight: 700;
   position: absolute;
-  left: 20px;
+  left: 28px;
   top: 0px;
   width: 903px;
-}
-.an-award-winning-platform-and-services-loved-by-customers-span {
-  font-family: "PlusJakartaSans-Bold", sans-serif;
-  font-weight: 700;
-}
-.an-award-winning-platform-and-services-loved-by-customers-span2 {
-  font-family: "PlusJakartaSans-ExtraBold", sans-serif;
-  font-weight: 800;
 }
 .rectangle-48 {
   border-radius: 0px;
@@ -863,20 +855,12 @@
 .easy-for-beginners-powerful-for-experts {
   color: #000000;
   text-align: center;
-  font-family: "-", sans-serif;
-  font-size: 36px;
-  font-weight: 400;
-  position: absolute;
-  left: 356px;
-  top: 32px;
-}
-.easy-for-beginners-powerful-for-experts-span {
-  font-family: "PlusJakartaSans-ExtraBold", sans-serif;
-  font-weight: 800;
-}
-.easy-for-beginners-powerful-for-experts-span2 {
   font-family: "PlusJakartaSans-Bold", sans-serif;
+  font-size: 36px;
   font-weight: 700;
+  position: absolute;
+  left: 358px;
+  top: 32px;
 }
 .create {
   color: #000000;
@@ -1633,7 +1617,6 @@
   left: 50%;
   translate: -50%;
   top: 15px;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
   object-fit: cover;
   aspect-ratio: 66/81;
 }
