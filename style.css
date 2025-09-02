@@ -235,7 +235,7 @@
   left: 355px;
   top: 44px;
 }
-.test-hover{
+.test-hover:hover{
   color: #f82d19;
   font-size: 20px;
 }
@@ -302,7 +302,7 @@
   left: 147px;
   top: 46px;
 }
-.about-us :hover{
+.about-us:hover{
   color: #f82d19;
   font-size: 20px;
 }
