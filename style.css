@@ -285,6 +285,12 @@
   top: 36px;
   /* box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25); */
 }
+.frame-75:hover{
+  background-color: #f82d19;
+}
+.login:hover{
+  color: #fff;
+}
 .login {
   color: #f82d19;
   text-align: left;
@@ -303,7 +309,7 @@
   left: 147px;
   top: 46px;
 }
-.about-us:hover{
+.about-us,.brands,.creators,.company,.contact:hover{
   color: #f82d19;
   font-size: 15px;
   cursor: pointer;
@@ -1291,6 +1297,7 @@
   left: 35px;
   top: 455px;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
 }
 .read-more {
   color: #ffffff;
@@ -1373,6 +1380,7 @@
   left: 34px;
   top: 455px;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
 }
 .rectangle-46 {
   border-radius: 4px;
@@ -1444,6 +1452,7 @@
   left: 0px;
   top: 417px;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
 }
 .rectangle-47 {
   border-radius: 4px;
