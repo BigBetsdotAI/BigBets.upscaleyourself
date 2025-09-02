@@ -235,6 +235,10 @@
   left: 355px;
   top: 44px;
 }
+.test-hover{
+  color: #f82d19;
+  font-size: 20px;
+}
 .contact {
   color: #191619;
   text-align: left;
@@ -297,6 +301,10 @@
   position: absolute;
   left: 147px;
   top: 46px;
+}
+.about-us :hover{
+  color: #f82d19;
+  font-size: 20px;
 }
 .frame-88 {
   width: 1440px;
