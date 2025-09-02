@@ -289,7 +289,7 @@
   background-color: #f82d19;
 }
 .login:hover{
-  color: #fff;
+  color: white !important;
 }
 .login {
   color: #f82d19;
@@ -309,7 +309,7 @@
   left: 147px;
   top: 46px;
 }
-.about-us,.brands,.creators,.company,.contact:hover{
+.about-us:hover,.brands:hover,.creators:hover,.company:hover,.contact:hover{
   color: #f82d19;
   font-size: 15px;
   cursor: pointer;
@@ -1523,7 +1523,7 @@
   line-height: 40px;
   font-weight: 500;
   position: absolute;
-  right: 645px;
+  right: 660px;
   top: calc(50% - 158px);
 }
 .creators-creator-testimonials-client-success-stories-blog-help {
@@ -1534,7 +1534,7 @@
   line-height: 40px;
   font-weight: 500;
   position: absolute;
-  right: 456px;
+  right: 465px;
   top: calc(50% - 172px);
 }
 .about-us-careers-team-contact-us {
@@ -1545,7 +1545,7 @@
   line-height: 40px;
   font-weight: 500;
   position: absolute;
-  right: 224px;
+  right: 230px;
   top: calc(50% - 172px);
 }
 .copyright-2022-circle-all-rights-reserved {
