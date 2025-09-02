@@ -237,7 +237,8 @@
 }
 .test-hover:hover{
   color: #f82d19;
-  font-size: 20px;
+  font-size: 15px;
+  cursor: pointer;
 }
 .contact {
   color: #191619;
@@ -304,7 +305,8 @@
 }
 .about-us:hover{
   color: #f82d19;
-  font-size: 20px;
+  font-size: 15px;
+  cursor: pointer;
 }
 .frame-88 {
   width: 1440px;
@@ -1536,10 +1538,6 @@
   position: absolute;
   right: 224px;
   top: calc(50% - 172px);
-}
-.hover:hover{
-  color: #f82d19;
-  font-size: 20px;
 }
 .copyright-2022-circle-all-rights-reserved {
   color: #9b9b9b;
