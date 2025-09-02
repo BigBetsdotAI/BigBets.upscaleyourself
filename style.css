@@ -271,33 +271,30 @@
   top: 44px;
 }
 .frame-75 {
-  border-style: solid;
-  border-color: #f82d19;
-  border-width: 1px;
-  padding: 10px 50px 10px 50px;
-  display: flex;
-  flex-direction: row;
-  gap: 10px;
-  align-items: flex-start;
-  justify-content: flex-start;
-  position: absolute;
-  left: 1152px;
-  top: 36px;
-  /* box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25); */
-}
-.frame-75:hover{
-  background-color: #f82d19;
+    padding: 10px 50px 10px 50px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 1152px;
+    top: 30px;
 }
 .login:hover{
   color: white !important;
+  background-color: #f82d19;
 }
 .login {
-  color: #f82d19;
-  text-align: left;
-  font-family: "PlusJakartaSans-Bold", sans-serif;
-  font-size: 14px;
-  font-weight: 700;
-  position: relative;
+      color: #f82d19;
+    text-align: left;
+    font-family: "PlusJakartaSans-Bold", sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    position: relative;
+    border-color: #f82d19;
+    border-style: solid;
+    padding: 4px 30px;
 }
 .about-us {
   color: #191619;
