@@ -729,7 +729,7 @@
   position: absolute;
   left: 248px;
   top: 4104px;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  /* box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25); */
 }
 .check-out-sogolytics-enterprise-feedback-and-experience-management-platform {
   color: #676767;
@@ -794,7 +794,7 @@
   position: absolute;
   left: 142px;
   top: 294px;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  /* box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25); */
 }
 .schedule-a-consultation {
   color: #f82d19;
