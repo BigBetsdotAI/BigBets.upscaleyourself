@@ -284,6 +284,7 @@
 .login:hover{
   color: white !important;
   background-color: #f82d19;
+  cursor: pointer;
 }
 .login {
       color: #f82d19;
@@ -495,7 +496,7 @@
   position: absolute;
   left: 248px;
   top: 1943px;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  box-shadow: var(--drop-shadow-500-box-shadow, 0px 4px 4px -4px rgba(12, 12, 13, 0.05), 0px 16px 16px -8px rgba(12, 12, 13, 0.1));
 }
 .an-award-winning-platform-and-services-loved-by-customers {
   color: #403c3c;

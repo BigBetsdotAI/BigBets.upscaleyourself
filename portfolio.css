@@ -1,0 +1,1374 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #ffffff;
+  height: 5076px;
+  position: relative;
+  overflow: hidden;
+}
+.ellipse-13 {
+  background: #fffdfd;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(248, 45, 25, 0.4);
+  border-width: 3px;
+  width: 88px;
+  height: 88px;
+  position: absolute;
+  left: 467px;
+  top: 3521px;
+}
+.facebook {
+  color: #671d1d;
+  text-align: center;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 456px;
+  top: 3626px;
+}
+.ellipse-14 {
+  background: #fffdfd;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(248, 45, 25, 0.4);
+  border-width: 3px;
+  width: 88px;
+  height: 88px;
+  position: absolute;
+  left: 676px;
+  top: 3521px;
+}
+.x-logo-picture-download-7-removebg-preview-5 {
+  width: 44px;
+  height: 41px;
+  position: absolute;
+  left: 698px;
+  top: 3545px;
+  object-fit: cover;
+  aspect-ratio: 44/41;
+}
+.x {
+  color: #671d1d;
+  text-align: center;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 712px;
+  top: 3626px;
+}
+.ellipse-15 {
+  background: #fffdfd;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(248, 45, 25, 0.4);
+  border-width: 3px;
+  width: 88px;
+  height: 88px;
+  position: absolute;
+  left: 885px;
+  top: 3521px;
+}
+.rectangle-1 {
+  background: #ffeded;
+  width: 718px;
+  height: 1030px;
+  position: absolute;
+  left: 722px;
+  top: 0px;
+}
+.rectangle-123 {
+  background: #ffe1e1;
+  border-radius: 60px;
+  width: 1354px;
+  height: 135px;
+  position: absolute;
+  left: 43px;
+  top: 25px;
+  box-shadow: 0px 4px 8.9px -2px rgba(0, 0, 0, 0.25);
+}
+.linkedin-icon-21-removebg-preview-5 {
+  width: 44px;
+  height: 44px;
+  position: absolute;
+  left: 908px;
+  top: 3541px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.linked-in {
+  color: #671d1d;
+  text-align: center;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 877px;
+  top: 3626px;
+}
+.ellipse-16 {
+  background: #fffdfd;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(248, 45, 25, 0.4);
+  border-width: 3px;
+  width: 88px;
+  height: 88px;
+  position: absolute;
+  left: 1094px;
+  top: 3514px;
+}
+.youtube {
+  color: #671d1d;
+  text-align: center;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 1090px;
+  top: 3619px;
+}
+.company {
+  color: #000000;
+  text-align: left;
+  font-family: "PlusJakartaSans-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 975px;
+  top: 76px;
+}
+.about-us {
+  color: #000000;
+  text-align: left;
+  font-family: "PlusJakartaSans-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 73px;
+  top: 77px;
+}
+.brands {
+  color: #000000;
+  text-align: left;
+  font-family: "PlusJakartaSans-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 205px;
+  top: 77px;
+}
+.testimonials {
+  color: #000000;
+  text-align: left;
+  font-family: "PlusJakartaSans-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 318px;
+  top: 77px;
+}
+.creators {
+  color: #000000;
+  text-align: left;
+  font-family: "PlusJakartaSans-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 481px;
+  top: 77px;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font-family: "PlusJakartaSans-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1119px;
+  top: 76px;
+}
+.rectangle-3 {
+  background: rgba(255, 255, 255, 0.11);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 1px;
+  width: 120px;
+  height: 34px;
+  position: absolute;
+  left: 1248px;
+  top: 72px;
+}
+.login {
+  color: #f82d19;
+  text-align: left;
+  font-family: "PlusJakartaSans-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 1281px;
+  top: 76px;
+}
+.line-1 {
+  margin-top: -5px;
+  border-style: solid;
+  border-color: rgba(248, 45, 25, 0.34);
+  border-width: 5px 0 0 0;
+  width: 518px;
+  height: 0px;
+  position: absolute;
+  left: 817px;
+  top: 247px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.line-3 {
+  margin-top: -5px;
+  border-style: solid;
+  border-color: rgba(248, 45, 25, 0.34);
+  border-width: 5px 0 0 0;
+  width: 724.03px;
+  height: 0px;
+  position: absolute;
+  left: 1315px;
+  top: 944px;
+  transform-origin: 0 0;
+  transform: rotate(-90.554deg) scale(1, 1);
+}
+.line-4 {
+  margin-top: -5px;
+  border-style: solid;
+  border-color: rgba(248, 45, 25, 0.34);
+  border-width: 5px 0 0 0;
+  width: 724px;
+  height: 0px;
+  position: absolute;
+  left: 840px;
+  top: 944px;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+}
+.line-5 {
+  margin-top: -4px;
+  border-style: solid;
+  border-color: rgba(248, 45, 25, 0.5);
+  border-width: 4px 0 0 0;
+  width: 46px;
+  height: 0px;
+  position: absolute;
+  left: 122px;
+  top: 705px;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+}
+.line-2 {
+  margin-top: -5px;
+  border-style: solid;
+  border-color: rgba(248, 45, 25, 0.34);
+  border-width: 5px 0 0 0;
+  width: 529px;
+  height: 0px;
+  position: absolute;
+  left: 809px;
+  top: 921.9px;
+  transform-origin: 0 0;
+  transform: rotate(-0.098deg) scale(1, 1);
+}
+.rectangle-2 {
+  background: rgba(248, 45, 25, 0.38);
+  border-radius: 200px;
+  width: 356px;
+  height: 599px;
+  position: absolute;
+  left: 896px;
+  top: 281px;
+}
+.whats-app-image-2025-08-31-at-11-27-53-pm-1 {
+  border-radius: 170px;
+  width: 399px;
+  height: 598px;
+  position: absolute;
+  left: 882px;
+  top: 281px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+  aspect-ratio: 399/598;
+}
+.divya-s-founder-at-big-bets-ai-1-removebg-preview-1 {
+  width: 141px;
+  height: 141px;
+  position: absolute;
+  left: 657px;
+  top: 19px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.hey-i-m-khushboo-kamal {
+  color: rgba(248, 45, 25, 0.64);
+  text-align: left;
+  font-family: "Birthstone-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 119px;
+  top: 194px;
+}
+.an-actress-social-media-influencer {
+  color: #671d1d;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 90px;
+  font-weight: 400;
+  position: absolute;
+  left: 111px;
+  top: 281px;
+}
+.you-can-t-win-if-you-re-losing-in-your-mind-change-your-thoughts-and-it-will-change-your-life {
+  color: rgba(99, 12, 12, 0.67);
+  text-align: left;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 142px;
+  top: 659px;
+}
+.rectangle-89 {
+  background: rgba(248, 45, 25, 0.49);
+  border-radius: 9px;
+  width: 157px;
+  height: 58px;
+  position: absolute;
+  left: 119px;
+  top: 753px;
+}
+.rectangle-90 {
+  background: #ffffff;
+  border-radius: 9px;
+  border-style: solid;
+  border-color: rgba(248, 45, 25, 0.5);
+  border-width: 2px;
+  width: 157px;
+  height: 58px;
+  position: absolute;
+  left: 318px;
+  top: 753px;
+}
+.contact-me {
+  color: rgba(248, 45, 25, 0.49);
+  text-align: left;
+  font-family: "Laila-SemiBold", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  position: absolute;
+  left: 346px;
+  top: 768px;
+}
+.check-out-my {
+  color: #5f5e5e;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 129px;
+  top: 971px;
+}
+.line-6 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.53);
+  border-width: 2px 0 0 0;
+  width: 49px;
+  height: 0px;
+  position: absolute;
+  left: 301px;
+  top: 987px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.ellipse-1 {
+  background: #fffdfd;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(248, 45, 25, 0.4);
+  border-width: 3px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  left: 380px;
+  top: 963px;
+}
+.ellipse-4 {
+  background: #fffdfd;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(248, 45, 25, 0.4);
+  border-width: 3px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  left: 465px;
+  top: 963px;
+}
+.ellipse-5 {
+  background: #fffdfd;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(248, 45, 25, 0.4);
+  border-width: 3px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  left: 550px;
+  top: 963px;
+}
+.vector-1 {
+  width: 459px;
+  height: 39px;
+  position: absolute;
+  left: 135px;
+  top: 877px;
+  overflow: visible;
+}
+.insta-logo-1 {
+  width: 23px;
+  height: 23px;
+  position: absolute;
+  left: 391px;
+  top: 974px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.ellipse-9 {
+  background: #fffdfd;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(248, 45, 25, 0.4);
+  border-width: 3px;
+  width: 66px;
+  height: 62px;
+  position: absolute;
+  left: 905px;
+  top: 305px;
+}
+.insta-logo-3 {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 922px;
+  top: 320px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.ellipse-11 {
+  background: #fffdfd;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(248, 45, 25, 0.4);
+  border-width: 3px;
+  width: 66px;
+  height: 65px;
+  position: absolute;
+  left: 895px;
+  top: 791px;
+}
+.x-logo-picture-download-7-removebg-preview-1 {
+  width: 23px;
+  height: 23px;
+  position: absolute;
+  left: 499px;
+  top: 974px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+  object-fit: cover;
+}
+.ellipse-10 {
+  background: #fffdfd;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(248, 45, 25, 0.4);
+  border-width: 3px;
+  width: 66px;
+  height: 65px;
+  position: absolute;
+  left: 1205px;
+  top: 378px;
+}
+.x-logo-picture-download-7-removebg-preview-3 {
+  width: 34px;
+  height: 33px;
+  position: absolute;
+  left: 1255px;
+  top: 394px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+  object-fit: cover;
+}
+.rectangle-91 {
+  background: #ffffff;
+  width: 1440px;
+  height: 800px;
+  position: absolute;
+  left: 0px;
+  top: 1029px;
+}
+.rectangle-98 {
+  background: #ffeded;
+  width: 1440px;
+  height: 800px;
+  position: absolute;
+  left: 0px;
+  top: 1829px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-111 {
+  background: #ffeded;
+  width: 1440px;
+  height: 648px;
+  position: absolute;
+  left: 0px;
+  top: 2704px;
+}
+.rectangle-115 {
+  background: #ffeded;
+  width: 1440px;
+  height: 801px;
+  position: absolute;
+  left: 0px;
+  top: 3776px;
+}
+.kk-1 {
+  border-radius: 26px;
+  width: 306px;
+  height: 201px;
+  position: absolute;
+  left: 567px;
+  top: 4003px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+  aspect-ratio: 306/201;
+}
+.article-and-news {
+  color: #671d1d;
+  text-align: center;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 466px;
+  top: 3803px;
+}
+.confernce-event-and-podcast {
+  color: #671d1d;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 100px;
+  top: 2810px;
+}
+.be-more-concerned-with-your-character-than-your-reputation-if-you-want-to-fly-give-up-everything-that-weighs-you-down {
+  color: rgba(103, 29, 29, 0.6);
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 27px;
+  font-weight: 400;
+  position: absolute;
+  left: 99px;
+  top: 2277px;
+}
+.be-more-concerned-with-your-character-than-your-reputation-if-you-want-to-fly-give-up-everything-that-weighs-you-down2 {
+  color: rgba(103, 29, 29, 0.6);
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 27px;
+  font-weight: 400;
+  position: absolute;
+  left: 101px;
+  top: 2994px;
+}
+.my-story-of-empowering-women-through-social-media {
+  color: #671d1d;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 55px;
+  line-height: 145.04%;
+  font-weight: 400;
+  position: absolute;
+  left: 99px;
+  top: 1931px;
+  width: 415px;
+  height: 322px;
+}
+.div {
+  color: rgba(248, 45, 25, 0.4);
+  text-align: center;
+  font-family: "LibreBodoni-Regular", sans-serif;
+  font-size: 80px;
+  font-weight: 400;
+  position: absolute;
+  left: 1219px;
+  top: 1922px;
+}
+.video-views {
+  color: #671d1d;
+  text-align: center;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 34px;
+  font-weight: 400;
+  position: absolute;
+  left: 1011px;
+  top: 2029px;
+}
+.the-impact-of-social-media-on-the-tv-industry {
+  color: #671d1d;
+  text-align: center;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 55px;
+  font-weight: 400;
+  position: absolute;
+  left: 389px;
+  top: 1100px;
+}
+.rectangle-99 {
+  background: rgba(248, 45, 25, 0.38);
+  border-radius: 200px;
+  width: 356px;
+  height: 599px;
+  position: absolute;
+  left: 576px;
+  top: 1922px;
+}
+.rectangle-92 {
+  background: #fffefe;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: rgba(248, 45, 25, 0.33);
+  border-width: 5px;
+  width: 384px;
+  height: 413px;
+  position: absolute;
+  left: 92px;
+  top: 1322px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-117 {
+  background: rgba(255, 254, 254, 0);
+  border-radius: 20px;
+  border-style: solid;
+  border-color: rgba(248, 45, 25, 0.33);
+  border-width: 5px;
+  width: 384px;
+  height: 413px;
+  position: absolute;
+  left: 106px;
+  top: 3970px;
+}
+.rectangle-118 {
+  background: rgba(255, 254, 254, 0);
+  border-radius: 20px;
+  border-style: solid;
+  border-color: rgba(248, 45, 25, 0.33);
+  border-width: 5px;
+  width: 384px;
+  height: 413px;
+  position: absolute;
+  left: 530px;
+  top: 3970px;
+}
+.rectangle-119 {
+  background: rgba(255, 254, 254, 0);
+  border-radius: 20px;
+  border-style: solid;
+  border-color: rgba(248, 45, 25, 0.33);
+  border-width: 5px;
+  width: 384px;
+  height: 413px;
+  position: absolute;
+  left: 952px;
+  top: 3970px;
+}
+.instagram-followers {
+  color: rgba(248, 45, 25, 0.5);
+  text-align: center;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 21px;
+  font-weight: 400;
+  position: absolute;
+  left: 190px;
+  top: 1504px;
+}
+._123-k {
+  text-align: center;
+  font-family: "LibreBodoni-Regular", sans-serif;
+  font-size: 100px;
+  font-weight: 400;
+  position: absolute;
+  left: 180px;
+  top: 1386px;
+}
+._123-k-span {
+  color: #671d1d;
+}
+._123-k-span2 {
+  color: rgba(248, 45, 25, 0.5);
+}
+.bigbets-content {
+  color: #630c0c;
+  text-align: center;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 229px;
+  top: 1356px;
+}
+.insta-logo-4 {
+  width: 23px;
+  height: 23px;
+  position: absolute;
+  left: 198px;
+  top: 1356px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.rectangle-93 {
+  background: #ffffff;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: rgba(248, 45, 25, 0.33);
+  border-width: 5px;
+  width: 384px;
+  height: 413px;
+  position: absolute;
+  left: 530px;
+  top: 1322px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-94 {
+  background: #ffffff;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: rgba(248, 45, 25, 0.33);
+  border-width: 5px;
+  width: 384px;
+  height: 413px;
+  position: absolute;
+  left: 970px;
+  top: 1322px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+._210-k {
+  text-align: center;
+  font-family: "LibreBodoni-Regular", sans-serif;
+  font-size: 100px;
+  font-weight: 400;
+  position: absolute;
+  left: 609px;
+  top: 1386px;
+}
+._210-k-span {
+  color: #671d1d;
+}
+._210-k-span2 {
+  color: rgba(248, 45, 25, 0.5);
+}
+._51-k {
+  text-align: center;
+  font-family: "LibreBodoni-Regular", sans-serif;
+  font-size: 100px;
+  font-weight: 400;
+  position: absolute;
+  left: 1084px;
+  top: 1386px;
+}
+._51-k-span {
+  color: #671d1d;
+}
+._51-k-span2 {
+  color: rgba(248, 45, 25, 0.5);
+}
+.linkedin-icon-21-removebg-preview-4 {
+  width: 23px;
+  height: 23px;
+  position: absolute;
+  left: 1083px;
+  top: 1356px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.x-logo-picture-download-7-removebg-preview-4 {
+  width: 21px;
+  height: 22px;
+  position: absolute;
+  left: 662px;
+  top: 1356px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+  object-fit: cover;
+}
+.the-temptation-to-quit-will-be-the-greatest-just-before-you-are-about-to-succeed {
+  color: rgba(103, 29, 29, 0.7);
+  text-align: center;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 138px;
+  top: 1548px;
+}
+.the-temptation-to-quit-will-be-the-greatest-just-before-you-are-about-to-succeed2 {
+  color: rgba(103, 29, 29, 0.7);
+  text-align: center;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 577px;
+  top: 1553px;
+}
+.the-temptation-to-quit-will-be-the-greatest-just-before-you-are-about-to-succeed3 {
+  color: rgba(103, 29, 29, 0.7);
+  text-align: center;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1010px;
+  top: 1556px;
+}
+.rectangle-95 {
+  background: rgba(248, 45, 25, 0.43);
+  border-radius: 10px;
+  width: 154px;
+  height: 46px;
+  position: absolute;
+  left: 203px;
+  top: 1651px;
+}
+.follow-me {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Laila-SemiBold", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  position: absolute;
+  left: 235px;
+  top: 1660px;
+}
+.follow-me2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Laila-SemiBold", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  position: absolute;
+  left: 151px;
+  top: 768px;
+}
+.rectangle-100 {
+  background: rgba(248, 45, 25, 0.43);
+  border-radius: 10px;
+  width: 154px;
+  height: 46px;
+  position: absolute;
+  left: 98px;
+  top: 2451px;
+}
+.about-me {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Laila-SemiBold", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  position: absolute;
+  left: 133px;
+  top: 2460px;
+}
+.rectangle-113 {
+  background: rgba(248, 45, 25, 0.43);
+  border-radius: 10px;
+  width: 186px;
+  height: 46px;
+  position: absolute;
+  left: 101px;
+  top: 3161px;
+}
+.view-all-events {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Laila-SemiBold", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 133px;
+  top: 3171px;
+}
+.x-followers {
+  color: rgba(248, 45, 25, 0.5);
+  text-align: center;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 21px;
+  font-weight: 400;
+  position: absolute;
+  left: 668px;
+  top: 1502px;
+}
+.bigbets-content2 {
+  color: #630c0c;
+  text-align: center;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 668px;
+  top: 1355px;
+}
+.rectangle-96 {
+  background: rgba(248, 45, 25, 0.43);
+  border-radius: 10px;
+  width: 154px;
+  height: 46px;
+  position: absolute;
+  left: 640px;
+  top: 1649px;
+}
+.follow-me3 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Laila-SemiBold", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  position: absolute;
+  left: 672px;
+  top: 1658px;
+}
+.linked-in-followers {
+  color: rgba(248, 45, 25, 0.5);
+  text-align: center;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 21px;
+  font-weight: 400;
+  position: absolute;
+  left: 1079px;
+  top: 1505px;
+}
+.bigbets-content3 {
+  color: #630c0c;
+  text-align: center;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 1111px;
+  top: 1358px;
+}
+.rectangle-97 {
+  background: rgba(248, 45, 25, 0.43);
+  border-radius: 10px;
+  width: 154px;
+  height: 46px;
+  position: absolute;
+  left: 1083px;
+  top: 1652px;
+}
+.follow-me4 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Laila-SemiBold", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  position: absolute;
+  left: 1115px;
+  top: 1661px;
+}
+._100-k {
+  color: #671d1d;
+  text-align: center;
+  font-family: "LibreBodoni-Regular", sans-serif;
+  font-size: 95px;
+  font-weight: 400;
+  position: absolute;
+  left: 996px;
+  top: 1923px;
+}
+.div2 {
+  color: rgba(248, 45, 25, 0.4);
+  text-align: center;
+  font-family: "LibreBodoni-Regular", sans-serif;
+  font-size: 80px;
+  font-weight: 400;
+  position: absolute;
+  left: 1155px;
+  top: 2129px;
+}
+.comments {
+  color: #671d1d;
+  text-align: center;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 34px;
+  font-weight: 400;
+  position: absolute;
+  left: 1011px;
+  top: 2232px;
+}
+._10-k {
+  color: #671d1d;
+  text-align: center;
+  font-family: "LibreBodoni-Regular", sans-serif;
+  font-size: 95px;
+  font-weight: 400;
+  position: absolute;
+  left: 996px;
+  top: 2129px;
+}
+.div3 {
+  color: rgba(248, 45, 25, 0.4);
+  text-align: center;
+  font-family: "LibreBodoni-Regular", sans-serif;
+  font-size: 80px;
+  font-weight: 400;
+  position: absolute;
+  left: 1254px;
+  top: 2334px;
+}
+.followers {
+  color: #671d1d;
+  text-align: center;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 34px;
+  font-weight: 400;
+  position: absolute;
+  left: 1011px;
+  top: 2435px;
+}
+._600-k {
+  color: #671d1d;
+  text-align: center;
+  font-family: "LibreBodoni-Regular", sans-serif;
+  font-size: 95px;
+  font-weight: 400;
+  position: absolute;
+  left: 1010px;
+  top: 2332px;
+}
+.rectangle-88 {
+  background: #232323;
+  width: 1440px;
+  height: 524px;
+  position: absolute;
+  left: 0px;
+  top: 4552px;
+}
+.line-42 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px 0 0 0;
+  opacity: 0.1;
+  width: 1140px;
+  height: 0px;
+  position: absolute;
+  left: 150px;
+  top: 4962px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.professional-podcast-studio-content-creation-digital-marketing-lead-generation-and-lead-conversion-blogs-for-your-brands-social-growth {
+  color: #7c7c7c;
+  text-align: left;
+  font-family: "PlusJakartaSans-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 40px;
+  font-weight: 500;
+  position: absolute;
+  right: 644px;
+  top: calc(50% - -2099px);
+}
+.creators-creator-testimonials-client-success-stories-blog-help {
+  color: #7c7c7c;
+  text-align: left;
+  font-family: "PlusJakartaSans-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 40px;
+  font-weight: 500;
+  position: absolute;
+  right: 457px;
+  top: calc(50% - -2099px);
+}
+.about-us-careers-team-contact-us {
+  color: #7c7c7c;
+  text-align: left;
+  font-family: "PlusJakartaSans-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 40px;
+  font-weight: 500;
+  position: absolute;
+  right: 225px;
+  top: calc(50% - -2099px);
+}
+.copyright-2022-circle-all-rights-reserved {
+  color: #9b9b9b;
+  text-align: left;
+  font-family: "PlusJakartaSans-Medium", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  position: absolute;
+  right: 1055px;
+  top: calc(50% - -2464px);
+}
+.privacy-policy-data-security-terms-of-service-data-security {
+  color: #9b9b9b;
+  text-align: left;
+  font-family: "Raleway-Medium", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  position: absolute;
+  right: 144px;
+  top: calc(50% - -2469px);
+}
+.products {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlusJakartaSans-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 18px;
+  letter-spacing: 0.2px;
+  font-weight: 700;
+  position: absolute;
+  left: 540px;
+  top: 4609px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.resources {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlusJakartaSans-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 18px;
+  letter-spacing: 0.2px;
+  font-weight: 700;
+  position: absolute;
+  left: 834px;
+  top: 4602px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.company2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlusJakartaSans-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 18px;
+  letter-spacing: 0.2px;
+  font-weight: 700;
+  position: absolute;
+  left: 1140px;
+  top: 4602px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-126 {
+  height: auto;
+  position: absolute;
+  left: 686px;
+  top: 5002px;
+  overflow: visible;
+}
+.divya-s-founder-at-big-bets-ai-photoroom-removebg-preview-1 {
+  width: 193px;
+  height: 193px;
+  position: absolute;
+  left: 42px;
+  top: 4559px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.ellipse-12 {
+  background: #fffdfd;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(248, 45, 25, 0.4);
+  border-width: 3px;
+  width: 88px;
+  height: 88px;
+  position: absolute;
+  left: 258px;
+  top: 3521px;
+}
+.insta-logo-5 {
+  width: 43px;
+  height: 44px;
+  position: absolute;
+  left: 281px;
+  top: 3543px;
+  object-fit: cover;
+  aspect-ratio: 43/44;
+}
+.screenshot-2025-09-04-at-2-00-47-pm-2 {
+  border-radius: 26px;
+  width: 685px;
+  height: 427px;
+  position: absolute;
+  left: 640px;
+  top: 2816px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+  aspect-ratio: 685/427;
+}
+.ellipse-17 {
+  background: #fffdfd;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(248, 45, 25, 0.4);
+  border-width: 3px;
+  width: 88px;
+  height: 88px;
+  position: absolute;
+  left: 940px;
+  top: 2994px;
+}
+.insta-logo-6 {
+  width: 43px;
+  height: 44px;
+  position: absolute;
+  left: 963px;
+  top: 3016px;
+  object-fit: cover;
+  aspect-ratio: 43/44;
+}
+.khushboo-b-kamal-opens-up-on-her-tv-hiatus-marriage-plans-and-career-comeback {
+  color: #671d1d;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 150px;
+  top: 4214px;
+  width: 341px;
+  height: 139px;
+}
+.follow-me-on-social-media {
+  color: #671d1d;
+  text-align: center;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 55px;
+  font-weight: 400;
+  position: absolute;
+  left: 378px;
+  top: 3409px;
+}
+.instagram {
+  color: #671d1d;
+  text-align: center;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 242px;
+  top: 3626px;
+}
+.images-removebg-preview-1 {
+  width: 40px;
+  height: 58px;
+  position: absolute;
+  left: 491px;
+  top: 3536px;
+  object-fit: cover;
+  aspect-ratio: 40/58;
+}
+.khushboo-kamal-on-entering-barrister-babu {
+  color: #671d1d;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 555px;
+  top: 4214px;
+  width: 341px;
+  height: 79px;
+}
+.fans-are-impressed-by-the-beauty-of-kadak-singh-fame-khushboo-kamal {
+  color: #671d1d;
+  text-align: left;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 985px;
+  top: 4214px;
+  width: 329px;
+  height: 120px;
+}
+.you-tube-full-color-icon-2017-svg-6 {
+  width: 40px;
+  height: 28px;
+  position: absolute;
+  left: 1118px;
+  top: 3544px;
+  object-fit: cover;
+  aspect-ratio: 40/28;
+}
+._1747699401777-d-1 {
+  border-radius: 26px;
+  width: 305px;
+  height: 195px;
+  position: absolute;
+  left: 146px;
+  top: 4006px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+  aspect-ratio: 305/195;
+}
+.screenshot-2025-09-04-at-2-00-47-pm-1 {
+  border-radius: 26px;
+  width: 311px;
+  height: 194px;
+  position: absolute;
+  left: 984px;
+  top: 4007px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+  aspect-ratio: 311/194;
+}
+.khushboo-kamal-34-w-yd-xpz-4315-1 {
+  border-radius: 190px;
+  width: 418px;
+  height: 608px;
+  position: absolute;
+  left: 562px;
+  top: 1913px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+  aspect-ratio: 418/608;
+}
+.images-removebg-preview-2 {
+  width: 20px;
+  height: 29px;
+  position: absolute;
+  left: 562px;
+  top: 971px;
+  object-fit: cover;
+  aspect-ratio: 20/29;
+}
+.images-removebg-preview-3 {
+  width: 24px;
+  height: 35px;
+  position: absolute;
+  left: 914px;
+  top: 806px;
+  object-fit: cover;
+  aspect-ratio: 24/35;
+}
