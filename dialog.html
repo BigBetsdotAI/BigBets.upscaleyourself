@@ -1,0 +1,23 @@
+<html>
+<body>
+<p>
+<button onclick="showDialog()">Show dialog</button>
+<button onclick="closeDialog()">Close dialog</button>
+</p>
+
+<dialog id="myDialog">This is a dialog window</dialog>
+
+<script>
+const dialog = document.getElementById("myDialog"); 
+
+function showDialog() { 
+  dialog.show(); 
+} 
+
+function closeDialog() { 
+  dialog.close(); 
+} 
+</script>
+
+</body>
+</html>

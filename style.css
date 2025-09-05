@@ -1516,7 +1516,7 @@ button.read-more a {
   transform-origin: 0 0;
   transform: rotate(0deg) scale(1, 1);
 }
-.professional-podcast-studio-content-creation-digital-marketing-lead-generation-and-lead-conversion-blogs-for-your-brands-social-growth {
+.footer1 {
   color: #7c7c7c;
   text-align: left;
   font-family: "PlusJakartaSans-Medium", sans-serif;
@@ -1526,8 +1526,9 @@ button.read-more a {
   position: absolute;
   right: 660px;
   top: calc(50% - 158px);
+  cursor: default;
 }
-.creators-creator-testimonials-client-success-stories-blog-help {
+.footer2 {
   color: #7c7c7c;
   text-align: left;
   font-family: "PlusJakartaSans-Medium", sans-serif;
@@ -1537,8 +1538,9 @@ button.read-more a {
   position: absolute;
   right: 465px;
   top: calc(50% - 172px);
+  cursor: default;
 }
-.about-us-careers-team-contact-us {
+.footer3 {
   color: #7c7c7c;
   text-align: left;
   font-family: "PlusJakartaSans-Medium", sans-serif;
@@ -1548,6 +1550,7 @@ button.read-more a {
   position: absolute;
   right: 230px;
   top: calc(50% - 172px);
+  cursor: default;
 }
 .copyright-2022-circle-all-rights-reserved {
   color: #9b9b9b;
@@ -1652,4 +1655,10 @@ button.read-more a {
 }
 #a{
   color: #ffffff;
+}
+.footerlink{
+  color: #7c7c7c;
+}
+.footerlink:hover{
+  color: white
 }
