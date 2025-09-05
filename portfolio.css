@@ -941,17 +941,20 @@
   top: 1209px;
 }
 .follow-me4 {
-  color: #ffffff;
-  text-align: center;
-  font-family: "Laila-SemiBold", sans-serif;
-  font-size: 15px;
-  font-weight: 600;
   position: absolute;
   left: 151px;
   top: 503px;
   cursor: pointer ;
 }
-.follow-me4:hover{
+.followme{
+  color: #ffffff;
+  text-align: center;
+  font-family: "Laila-SemiBold", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  
+}
+.followme:hover{
     color: #f82d19;
 }
 .rectangle-100 {
