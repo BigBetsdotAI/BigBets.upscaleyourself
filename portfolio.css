@@ -211,7 +211,7 @@
   left: 1205px;
   top: 56px;
 }
-.login {
+.login a{
   color: #f82d19;
   text-align: left;
   font-family: "PlusJakartaSans-SemiBold", sans-serif;
@@ -221,7 +221,7 @@
   left: 1244px;
   top: 63px;
 }
-button.login:hover{
+.login a:hover{
     font-size: 16px;
 }
 .line-1 {
