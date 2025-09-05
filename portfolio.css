@@ -477,7 +477,7 @@
   left: 926px;
   top: 512px;
 }
-.x-logo {
+img.x-logo {
   width: 24px;
   height: 23px;
   position: absolute;
@@ -499,7 +499,7 @@
   left: 1205px;
   top: 378px;
 }
-.x-logo1 {
+img.x-logo1 {
   width: 34px;
   height: 33px;
   position: absolute;
@@ -947,7 +947,7 @@
   cursor: pointer ;
 }
 .followme a{
-  color: #ffffff;
+  color: #ffffff !important;
   text-align: center;
   font-family: "Laila-SemiBold", sans-serif;
   font-size: 15px;
