@@ -1085,7 +1085,7 @@
   line-height: 40px;
   font-weight: 500;
   position: absolute;
-  right: 652px;
+  right: 667px;
   top: calc(50% - -1660.5px);
 }
 .resources-footer {
@@ -1096,7 +1096,7 @@
   line-height: 40px;
   font-weight: 500;
   position: absolute;
-  right: 4px;
+  right: 456px;
   top: calc(50% - -1659.5px);
 }
 .company-footer{
@@ -1107,7 +1107,7 @@
   line-height: 40px;
   font-weight: 500;
   position: absolute;
-  right: 210px;
+  right: 225px;
   top: calc(50% - -1660.5px);
 }
 .copyright-2022-circle-all-rights-reserved {
@@ -1154,7 +1154,7 @@
   letter-spacing: 0.2px;
   font-weight: 700;
   position: absolute;
-  left: 443px;
+  left: 843px;
   top: 3697px;
   display: flex;
   align-items: center;
@@ -1303,7 +1303,7 @@
   color: #671d1d;
   text-align: left;
   font-family: "PlayfairDisplay-Regular", sans-serif;
-  font-size: 21px;
+  font-size: 16px;
   font-weight: 400;
   position: absolute;
   left: 984px;
