@@ -477,7 +477,7 @@
   left: 926px;
   top: 512px;
 }
-.x-logo-picture-download-7-removebg-preview-1 {
+.x-logo {
   width: 24px;
   height: 23px;
   position: absolute;
@@ -499,7 +499,7 @@
   left: 1205px;
   top: 378px;
 }
-.x-logo-picture-download-7-removebg-preview-3 {
+.x-logo1 {
   width: 34px;
   height: 33px;
   position: absolute;
@@ -946,7 +946,7 @@
   top: 503px;
   cursor: pointer ;
 }
-.followme{
+.followme a{
   color: #ffffff;
   text-align: center;
   font-family: "Laila-SemiBold", sans-serif;
@@ -954,7 +954,7 @@
   font-weight: 600;
   
 }
-.followme:hover{
+.followme a:hover{
     color: #f82d19;
 }
 .rectangle-100 {
