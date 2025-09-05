@@ -4,7 +4,7 @@
 }
 .desktop-1 {
   background: #ffffff;
-  height: 5076px;
+  height: 4135px;
   position: relative;
   overflow: hidden;
 }
@@ -14,21 +14,23 @@
   border-style: solid;
   border-color: rgba(248, 45, 25, 0.4);
   border-width: 3px;
-  width: 88px;
-  height: 88px;
+  width: 74px;
+  height: 74px;
   position: absolute;
-  left: 467px;
-  top: 3521px;
+  left: 515px;
+  top: 2814px;
 }
 .facebook {
   color: #671d1d;
   text-align: center;
   font-family: "PlayfairDisplay-Regular", sans-serif;
-  font-size: 21px;
+  font-size: 15px;
   font-weight: 400;
   position: absolute;
-  left: 460px;
-  top: 3626px;
+  left: 505px;
+  top: 2894px;
+  width: 93px;
+  height: 27px;
 }
 .ellipse-14 {
   background: #fffdfd;
@@ -36,30 +38,32 @@
   border-style: solid;
   border-color: rgba(248, 45, 25, 0.4);
   border-width: 3px;
-  width: 88px;
-  height: 88px;
+  width: 74px;
+  height: 74px;
   position: absolute;
-  left: 676px;
-  top: 3521px;
+  left: 689px;
+  top: 2814px;
 }
-.x-logo {
-  width: 44px;
-  height: 41px;
+.x-logo-picture-download-7-removebg-preview-5 {
+  width: 35px;
+  height: 32px;
   position: absolute;
-  left: 700px;
-  top: 3545px;
+  left: 709px;
+  top: 2835px;
   object-fit: cover;
-  aspect-ratio: 44/41;
+  aspect-ratio: 35/32;
 }
 .x {
   color: #671d1d;
   text-align: center;
   font-family: "PlayfairDisplay-Regular", sans-serif;
-  font-size: 21px;
+  font-size: 15px;
   font-weight: 400;
   position: absolute;
-  left: 710px;
-  top: 3626px;
+  left: 719px;
+  top: 2894px;
+  width: 14px;
+  height: 27px;
 }
 .ellipse-15 {
   background: #fffdfd;
@@ -67,36 +71,48 @@
   border-style: solid;
   border-color: rgba(248, 45, 25, 0.4);
   border-width: 3px;
-  width: 88px;
-  height: 88px;
+  width: 74px;
+  height: 74px;
   position: absolute;
-  left: 885px;
-  top: 3521px;
+  left: 863px;
+  top: 2814px;
+}
+.ellipse-18 {
+  background: #fffdfd;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(248, 45, 25, 0.4);
+  border-width: 3px;
+  width: 74px;
+  height: 74px;
+  position: absolute;
+  left: 1037px;
+  top: 2809px;
 }
 .rectangle-1 {
   background: #ffeded;
-  width: 718px;
-  height: 1030px;
+  width: 693px;
+  height: 693px;
   position: absolute;
-  left: 722px;
+  left: 747px;
   top: 0px;
 }
 .rectangle-123 {
   background: #ffe1e1;
   border-radius: 60px;
-  width: 1354px;
-  height: 120px;
+  width: 1336px;
+  height: 101px;
   position: absolute;
-  left: 43px;
-  top: 25px;
+  left: 51px;
+  top: 22px;
   box-shadow: 0px 4px 8.9px -2px rgba(0, 0, 0, 0.25);
 }
 .linkedin-icon-21-removebg-preview-5 {
-  width: 44px;
-  height: 44px;
+  width: 35px;
+  height: 35px;
   position: absolute;
-  left: 908px;
-  top: 3541px;
+  left: 883px;
+  top: 2833px;
   object-fit: cover;
   aspect-ratio: 1;
 }
@@ -104,43 +120,35 @@
   color: #671d1d;
   text-align: center;
   font-family: "PlayfairDisplay-Regular", sans-serif;
-  font-size: 21px;
+  font-size: 15px;
   font-weight: 400;
   position: absolute;
-  left: 890px;
-  top: 3626px;
-}
-.ellipse-16 {
-  background: #fffdfd;
-  border-radius: 50%;
-  border-style: solid;
-  border-color: rgba(248, 45, 25, 0.4);
-  border-width: 3px;
+  left: 856px;
+  top: 2894px;
   width: 88px;
-  height: 88px;
-  position: absolute;
-  left: 1094px;
-  top: 3514px;
+  height: 27px;
 }
 .youtube {
   color: #671d1d;
   text-align: center;
   font-family: "PlayfairDisplay-Regular", sans-serif;
-  font-size: 21px;
+  font-size: 15px;
   font-weight: 400;
   position: absolute;
-  left: 1100px;
-  top: 3619px;
+  left: 1034px;
+  top: 2889px;
+  width: 80px;
+  height: 27px;
 }
 .company {
   color: #000000;
   text-align: left;
   font-family: "PlusJakartaSans-Regular", sans-serif;
-  font-size: 20px;
+  font-size: 15px;
   font-weight: 400;
   position: absolute;
-  left: 975px;
-  top: 76px;
+  left: 875px;
+  top: 64px;
 }
 .about-us {
   color: #000000;
@@ -149,8 +157,8 @@
   font-size: 15px;
   font-weight: 400;
   position: absolute;
-  left: 85px;
-  top: 77px;
+  left: 103px;
+  top: 64px;
 }
 .brands {
   color: #000000;
@@ -159,8 +167,8 @@
   font-size: 15px;
   font-weight: 400;
   position: absolute;
-  left: 205px;
-  top: 77px;
+  left: 235px;
+  top: 63px;
 }
 .testimonials {
   color: #000000;
@@ -169,18 +177,18 @@
   font-size: 15px;
   font-weight: 400;
   position: absolute;
-  left: 318px;
-  top: 77px;
+  left: 352px;
+  top: 61px;
 }
 .creators {
   color: #000000;
   text-align: left;
   font-family: "PlusJakartaSans-Regular", sans-serif;
-  font-size: 20px;
+  font-size: 15px;
   font-weight: 400;
   position: absolute;
-  left: 481px;
-  top: 77px;
+  left: 519px;
+  top: 61px;
 }
 .contact {
   color: #000000;
@@ -189,8 +197,8 @@
   font-size: 15px;
   font-weight: 400;
   position: absolute;
-  left: 1119px;
-  top: 76px;
+  left: 1012px;
+  top: 64px;
 }
 .rectangle-3 {
   background: rgba(255, 255, 255, 0.11);
@@ -200,8 +208,8 @@
   width: 120px;
   height: 34px;
   position: absolute;
-  left: 1248px;
-  top: 72px;
+  left: 1205px;
+  top: 56px;
 }
 .login {
   color: #f82d19;
@@ -210,8 +218,8 @@
   font-size: 15px;
   font-weight: 600;
   position: absolute;
-  left: 1290px;
-  top: 80px;
+  left: 1244px;
+  top: 63px;
 }
 .line-1 {
   margin-top: -5px;
@@ -221,8 +229,8 @@
   width: 518px;
   height: 0px;
   position: absolute;
-  left: 817px;
-  top: 247px;
+  left: 823px;
+  top: 165px;
   transform-origin: 0 0;
   transform: rotate(0deg) scale(1, 1);
 }
@@ -231,24 +239,24 @@
   border-style: solid;
   border-color: rgba(248, 45, 25, 0.34);
   border-width: 5px 0 0 0;
-  width: 724.03px;
+  width: 514.06px;
   height: 0px;
   position: absolute;
-  left: 1315px;
-  top: 944px;
+  left: 1321px;
+  top: 653.03px;
   transform-origin: 0 0;
-  transform: rotate(-90.554deg) scale(1, 1);
+  transform: rotate(-90deg) scale(1, 1);
 }
 .line-4 {
   margin-top: -5px;
   border-style: solid;
   border-color: rgba(248, 45, 25, 0.34);
   border-width: 5px 0 0 0;
-  width: 724px;
+  width: 514px;
   height: 0px;
   position: absolute;
-  left: 840px;
-  top: 944px;
+  left: 842px;
+  top: 653px;
   transform-origin: 0 0;
   transform: rotate(-90deg) scale(1, 1);
 }
@@ -257,11 +265,11 @@
   border-style: solid;
   border-color: rgba(248, 45, 25, 0.5);
   border-width: 4px 0 0 0;
-  width: 46px;
+  width: 32px;
   height: 0px;
   position: absolute;
-  left: 122px;
-  top: 705px;
+  left: 119px;
+  top: 442px;
   transform-origin: 0 0;
   transform: rotate(-90deg) scale(1, 1);
 }
@@ -273,78 +281,70 @@
   width: 529px;
   height: 0px;
   position: absolute;
-  left: 809px;
-  top: 921.9px;
+  left: 823px;
+  top: 633.9px;
   transform-origin: 0 0;
   transform: rotate(-0.098deg) scale(1, 1);
 }
-.rectangle-2 {
-  background: rgba(248, 45, 25, 0.38);
-  border-radius: 200px;
-  width: 356px;
-  height: 599px;
-  position: absolute;
-  left: 896px;
-  top: 281px;
-}
 .whats-app-image-2025-08-31-at-11-27-53-pm-1 {
   border-radius: 170px;
-  width: 399px;
-  height: 598px;
+  width: 280px;
+  height: 420px;
   position: absolute;
-  left: 882px;
-  top: 281px;
+  left: 941px;
+  top: 186px;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
   object-fit: cover;
-  aspect-ratio: 399/598;
+  aspect-ratio: 280/420;
 }
 .divya-s-founder-at-big-bets-ai-1-removebg-preview-1 {
   width: 141px;
   height: 141px;
   position: absolute;
-  left: 657px;
-  top: 19px;
+  left: 658px;
+  top: 3px;
   object-fit: cover;
   aspect-ratio: 1;
 }
-.name {
+.hey-i-m-khushboo-kamal {
   color: rgba(248, 45, 25, 0.64);
-    text-align: left;
-    font-family: cursive;
-    font-size: 40px;
-    font-weight: 400;
-    position: absolute;
-    left: 119px;
-    top: 4.5%;
+  text-align: left;
+  font-family: "Birthstone-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 119px;
+  top: 194px;
 }
-.title {
+.an-actress-social-media-influencer {
   color: #671d1d;
   text-align: left;
   font-family: "PlayfairDisplay-Regular", sans-serif;
-  font-size: 50px;
+  font-size: 60px;
   font-weight: 400;
   position: absolute;
-  left: 111px;
-  top: 6.5%;
+  left: 112px;
+  top: 247px;
+  width: 593px;
 }
-.sub-title {
+.you-can-t-win-if-you-re-losing-in-your-mind-change-your-thoughts-and-it-will-change-your-life {
   color: rgba(99, 12, 12, 0.67);
   text-align: left;
   font-family: "Roboto-Medium", sans-serif;
-  font-size: 20px;
+  font-size: 15px;
   font-weight: 500;
   position: absolute;
-  left: 142px;
-  top: 659px;
+  left: 139px;
+  top: 410px;
 }
 .rectangle-89 {
   background: rgba(248, 45, 25, 0.49);
   border-radius: 9px;
-  width: 125px;
-  height: 45px;
+  width: 141px;
+  height: 38px;
   position: absolute;
   left: 119px;
-  top: 753px;
+  top: 493px;
 }
 .rectangle-90 {
   background: #ffffff;
@@ -352,11 +352,11 @@
   border-style: solid;
   border-color: rgba(248, 45, 25, 0.5);
   border-width: 2px;
-  width: 125px;
-  height: 45px;
+  width: 137px;
+  height: 38px;
   position: absolute;
   left: 318px;
-  top: 753px;
+  top: 493px;
 }
 .contact-me {
   color: rgba(248, 45, 25, 0.49);
@@ -365,31 +365,31 @@
   font-size: 15px;
   font-weight: 600;
   position: absolute;
-  left: 341px;
-  top: 766px;
+  left: 344px;
+  top: 501px;
 }
 .check-out-my {
   color: #5f5e5e;
   text-align: left;
   font-family: "Roboto-Regular", sans-serif;
-  font-size: 20px;
+  font-size: 15px;
   font-weight: 400;
   position: absolute;
-  left: 129px;
-  top: 971px;
+  left: 137px;
+  top: 701px;
 }
 .line-6 {
- margin-top: -2px;
-    border-style: solid;
-    border-color: rgba(0, 0, 0, 0.53);
-    border-width: 2px 0 0 0;
-    width: 45px;
-    height: 0px;
-    position: absolute;
-    left: 295px;
-    top: 985px;
-    transform-origin: 0 0;
-    transform: rotate(0deg) scale(1, 1);
+  margin-top: -2px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.53);
+  border-width: 2px 0 0 0;
+  width: 33px;
+  height: 0px;
+  position: absolute;
+  left: 275px;
+  top: 710px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
 }
 .ellipse-1 {
   background: #fffdfd;
@@ -397,11 +397,11 @@
   border-style: solid;
   border-color: rgba(248, 45, 25, 0.4);
   border-width: 3px;
-  width: 45px;
+  width: 46px;
   height: 45px;
   position: absolute;
-  left: 380px;
-  top: 963px;
+  left: 344px;
+  top: 688px;
 }
 .ellipse-4 {
   background: #fffdfd;
@@ -409,11 +409,11 @@
   border-style: solid;
   border-color: rgba(248, 45, 25, 0.4);
   border-width: 3px;
-  width: 45px;
+  width: 46px;
   height: 45px;
   position: absolute;
-  left: 465px;
-  top: 963px;
+  left: 432px;
+  top: 688px;
 }
 .ellipse-5 {
   background: #fffdfd;
@@ -421,26 +421,26 @@
   border-style: solid;
   border-color: rgba(248, 45, 25, 0.4);
   border-width: 3px;
-  width: 45px;
+  width: 46px;
   height: 45px;
   position: absolute;
-  left: 550px;
-  top: 963px;
+  left: 520px;
+  top: 688px;
 }
 .vector-1 {
   width: 459px;
   height: 39px;
   position: absolute;
-  left: 135px;
-  top: 877px;
+  left: 119px;
+  top: 614px;
   overflow: visible;
 }
 .insta-logo-1 {
   width: 23px;
   height: 23px;
   position: absolute;
-  left: 391px;
-  top: 974px;
+  left: 356px;
+  top: 699px;
   object-fit: cover;
   aspect-ratio: 1;
 }
@@ -453,15 +453,15 @@
   width: 66px;
   height: 62px;
   position: absolute;
-  left: 905px;
-  top: 305px;
+  left: 921px;
+  top: 232px;
 }
 .insta-logo-3 {
   width: 32px;
   height: 32px;
   position: absolute;
-  left: 922px;
-  top: 320px;
+  left: 938px;
+  top: 248px;
   object-fit: cover;
   aspect-ratio: 1;
 }
@@ -474,15 +474,15 @@
   width: 66px;
   height: 65px;
   position: absolute;
-  left: 895px;
-  top: 791px;
+  left: 926px;
+  top: 512px;
 }
 .x-logo-picture-download-7-removebg-preview-1 {
-  width: 23px;
+  width: 24px;
   height: 23px;
   position: absolute;
-  left: 499px;
-  top: 974px;
+  left: 467px;
+  top: 699px;
   transform-origin: 0 0;
   transform: rotate(0deg) scale(-1, 1);
   object-fit: cover;
@@ -512,18 +512,18 @@
 .rectangle-91 {
   background: #ffffff;
   width: 1440px;
-  height: 800px;
+  height: 539px;
   position: absolute;
-  left: 0px;
-  top: 1029px;
+  left: -20px;
+  top: 794px;
 }
 .rectangle-98 {
   background: #ffeded;
   width: 1440px;
-  height: 800px;
+  height: 609px;
   position: absolute;
-  left: 0px;
-  top: 1829px;
+  left: -1px;
+  top: 1339px;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
 }
 .rectangle-111 {
@@ -532,23 +532,23 @@
   height: 648px;
   position: absolute;
   left: 0px;
-  top: 2704px;
+  top: 1994px;
 }
 .rectangle-115 {
   background: #ffeded;
   width: 1440px;
-  height: 801px;
+  height: 614px;
   position: absolute;
-  left: 0px;
-  top: 3776px;
+  left: -1px;
+  top: 2997px;
 }
 .kk-1 {
   border-radius: 26px;
   width: 306px;
   height: 201px;
   position: absolute;
-  left: 567px;
-  top: 4003px;
+  left: 560px;
+  top: 3190px;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
   object-fit: cover;
   aspect-ratio: 306/201;
@@ -560,10 +560,10 @@
   font-size: 50px;
   font-weight: 400;
   position: absolute;
-  left: 500px;
-  top: 3830px;
+  left: 518px;
+  top: 3024px;
 }
-.events {
+.confernce-event-and-podcast {
   color: #671d1d;
   text-align: left;
   font-family: "PlayfairDisplay-Regular", sans-serif;
@@ -571,29 +571,30 @@
   font-weight: 400;
   position: absolute;
   left: 100px;
-  top: 2810px;
+  top: 2100px;
 }
-.event-title {
+.be-more-concerned-with-your-character-than-your-reputation-if-you-want-to-fly-give-up-everything-that-weighs-you-down {
   color: rgba(103, 29, 29, 0.6);
   text-align: left;
   font-family: "Roboto-Regular", sans-serif;
   font-size: 21px;
   font-weight: 400;
   position: absolute;
-  left: 99px;
-  top: 2277px;
+  left: 108px;
+  top: 1696px;
+  width: 455px;
 }
-.story-title{
+.be-more-concerned-with-your-character-than-your-reputation-if-you-want-to-fly-give-up-everything-that-weighs-you-down2 {
   color: rgba(103, 29, 29, 0.6);
   text-align: left;
   font-family: "Roboto-Regular", sans-serif;
-  font-size: 27px;
+  font-size: 21px;
   font-weight: 400;
   position: absolute;
   left: 101px;
-  top: 2994px;
+  top: 2284px;
 }
-.my-story {
+.my-story-of-empowering-women-through-social-media {
   color: #671d1d;
   text-align: left;
   font-family: "PlayfairDisplay-Regular", sans-serif;
@@ -602,107 +603,100 @@
   font-weight: 400;
   position: absolute;
   left: 99px;
-  top: 1931px;
-  width: 415px;
-  height: 322px;
+  top: 1439px;
+  width: 510px;
+  height: 218px;
 }
 .div {
   color: rgba(248, 45, 25, 0.4);
   text-align: center;
   font-family: "LibreBodoni-Regular", sans-serif;
-  font-size: 80px;
+  font-size: 70px;
   font-weight: 400;
   position: absolute;
-  left: 1219px;
-  top: 1922px;
+  left: 1210px;
+  top: 1435px;
 }
 .video-views {
   color: #671d1d;
   text-align: center;
   font-family: "PlayfairDisplay-Regular", sans-serif;
-  font-size: 34px;
+  font-size: 21px;
   font-weight: 400;
   position: absolute;
-  left: 1011px;
-  top: 2029px;
+  left: 1028px;
+  top: 1509px;
 }
-.impact {
+.the-impact-of-social-media-on-the-tv-industry {
   color: #671d1d;
   text-align: center;
   font-family: "PlayfairDisplay-Regular", sans-serif;
-  font-size: 55px;
+  font-size: 50px;
   font-weight: 400;
   position: absolute;
-  left: 389px;
-  top: 1100px;
-}
-.rectangle-99 {
-  background: rgba(248, 45, 25, 0.38);
-  border-radius: 200px;
-  width: 356px;
-  height: 599px;
-  position: absolute;
-  left: 576px;
-  top: 1922px;
+  left: 173px;
+  top: 814px;
+  width: 1110px;
+  height: 66px;
 }
 .rectangle-92 {
   background: #fffefe;
   border-radius: 20px;
   border-style: solid;
   border-color: rgba(248, 45, 25, 0.33);
-  border-width: 5px;
-  width: 375px;
-  height: 375px;
+  border-width: 3px;
+  width: 349px;
+  height: 359px;
   position: absolute;
-  left: 92px;
-  top: 1322px;
-  box-shadow: 0px 4px 4px 0px rgb(255 126 126 / 25%);
+  left: 130px;
+  top: 930px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
 }
 .rectangle-117 {
   background: rgba(255, 254, 254, 0);
   border-radius: 20px;
   border-style: solid;
   border-color: rgba(248, 45, 25, 0.33);
-  border-width: 5px;
-  width: 384px;
-  height: 370px;
+  border-width: 3px;
+  width: 364px;
+  height: 383px;
   position: absolute;
-  left: 106px;
-  top: 3970px;
+  left: 105px;
+  top: 3146px;
 }
 .rectangle-118 {
   background: rgba(255, 254, 254, 0);
   border-radius: 20px;
   border-style: solid;
   border-color: rgba(248, 45, 25, 0.33);
-  border-width: 5px;
-  width: 384px;
-  height: 370px;
+  border-width: 3px;
+  width: 364px;
+  height: 383px;
   position: absolute;
-  left: 530px;
-  top: 3970px;
+  left: 531px;
+  top: 3146px;
 }
 .rectangle-119 {
   background: rgba(255, 254, 254, 0);
   border-radius: 20px;
   border-style: solid;
   border-color: rgba(248, 45, 25, 0.33);
-  border-width: 5px;
-  width: 384px;
-  height: 370px;
+  border-width: 3px;
+  width: 364px;
+  height: 383px;
   position: absolute;
-  left: 952px;
-  top: 3970px;
+  left: 949px;
+  top: 3146px;
 }
 .instagram-followers {
   color: rgba(248, 45, 25, 0.5);
   text-align: center;
   font-family: "PlayfairDisplay-Regular", sans-serif;
-  font-size: 18px;
+  font-size: 15px;
   font-weight: 400;
   position: absolute;
-  left: 190px;
-  top: 1460px;
+  left: 234px;
+  top: 1090px;
 }
 ._123-k {
   text-align: center;
@@ -710,8 +704,8 @@
   font-size: 60px;
   font-weight: 400;
   position: absolute;
-  left: 195px;
-  top: 1386px;
+  left: 241px;
+  top: 1003px;
 }
 ._123-k-span {
   color: #671d1d;
@@ -723,46 +717,73 @@
   color: #630c0c;
   text-align: center;
   font-family: "Roboto-Regular", sans-serif;
-  font-size: 18px;
+  font-size: 15px;
   font-weight: 400;
   position: absolute;
-  left: 215px;
-  top: 1356px;
+  left: 256px;
+  top: 967px;
 }
 .insta-logo-4 {
-  width: 23px;
-  height: 23px;
+  width: 20px;
+  height: 20px;
   position: absolute;
-  left: 180px;
-  top: 1356px;
+  left: 226px;
+  top: 966px;
   object-fit: cover;
   aspect-ratio: 1;
 }
-.rectangle-93 {
-  background: #ffffff;
-  border-radius: 20px;
-  border-style: solid;
-  border-color: rgba(248, 45, 25, 0.33);
-  border-width: 5px;
-  width: 375px;
-  height: 375px;
+.the-temptation-to-quit-will-be-the-greatest-just-before-you-are-about-to-succeed {
+  color: rgba(103, 29, 29, 0.7);
+  text-align: center;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
   position: absolute;
-  left: 530px;
-  top: 1322px;
-  box-shadow: 0px 4px 4px 0px rgb(255 126 126 / 25%);
+  left: 138px;
+  top: 1136px;
+  width: 333px;
 }
-.rectangle-94 {
-  background: #ffffff;
+.rectangle-95 {
+  border-radius: 0px;
+  width: 125px;
+  height: 45px;
+  position: absolute;
+  left: 232px;
+  top: 1199px;
+  overflow: visible;
+}
+.follow-me {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Laila-SemiBold", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  position: absolute;
+  left: 256px;
+  top: 1209px;
+}
+.rectangle-124 {
+  background: #fffefe;
   border-radius: 20px;
   border-style: solid;
   border-color: rgba(248, 45, 25, 0.33);
-  border-width: 5px;
-  width: 375px;
-  height: 375px;
+  border-width: 3px;
+  width: 349px;
+  height: 359px;
   position: absolute;
-  left: 970px;
-  top: 1322px;
-  box-shadow: 0px 4px 4px 0px rgb(255 126 126 / 25%);
+  left: 536px;
+  top: 930px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.instagram-followers2 {
+  color: rgba(248, 45, 25, 0.5);
+  text-align: center;
+  font-family: "PlayfairDisplay-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 640px;
+  top: 1090px;
 }
 ._210-k {
   text-align: center;
@@ -770,8 +791,8 @@
   font-size: 60px;
   font-weight: 400;
   position: absolute;
-  left: 640px;
-  top: 1386px;
+  left: 645px;
+  top: 1003px;
 }
 ._210-k-span {
   color: #671d1d;
@@ -779,88 +800,45 @@
 ._210-k-span2 {
   color: rgba(248, 45, 25, 0.5);
 }
-._51-k {
+.bigbets-content2 {
+  color: #630c0c;
   text-align: center;
-  font-family: "LibreBodoni-Regular", sans-serif;
-  font-size: 60px;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 15px;
   font-weight: 400;
   position: absolute;
-  left: 1100px;
-  top: 1386px;
-}
-._51-k-span {
-  color: #671d1d;
-}
-._51-k-span2 {
-  color: rgba(248, 45, 25, 0.5);
-}
-.linkedin-icon {
-  width: 23px;
-  height: 23px;
-  position: absolute;
-  left: 1065px;
-  top: 1356px;
-  object-fit: cover;
-  aspect-ratio: 1;
-}
-.x-logo-picture-download-7-removebg-preview-4 {
-  width: 21px;
-  height: 22px;
-  position: absolute;
   left: 662px;
-  top: 1356px;
+  top: 967px;
+}
+.the-temptation-to-quit-will-be-the-greatest-just-before-you-are-about-to-succeed2 {
+  color: rgba(103, 29, 29, 0.7);
+  text-align: center;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 544px;
+  top: 1136px;
+  width: 333px;
+}
+.x-logo-picture-download-7-removebg-preview-6 {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 655px;
+  top: 967px;
   transform-origin: 0 0;
   transform: rotate(0deg) scale(-1, 1);
   object-fit: cover;
 }
-.quote {
-  color: rgba(103, 29, 29, 0.7);
-  text-align: center;
-  font-family: "Roboto-Regular", sans-serif;
-  font-size: 15px;
-  font-weight: 400;
-  position: absolute;
-  left: 170px;
-  top: 1510px;
-}
-.quote2 {
-  color: rgba(103, 29, 29, 0.7);
-  text-align: center;
-  font-family: "Roboto-Regular", sans-serif;
-  font-size: 15px;
-  font-weight: 400;
-  position: absolute;
-  left: 600px;
-  top: 1510px;
-}
-.quote3 {
-  color: rgba(103, 29, 29, 0.7);
-  text-align: center;
-  font-family: "Roboto-Regular", sans-serif;
-  font-size: 15px;
-  font-weight: 400;
-  position: absolute;
-  left: 1050px;
-  top: 1510px;
-}
-.rectangle-95 {
-  background: rgba(248, 45, 25, 0.43);
-  border-radius: 10px;
+.rectangle-125 {
+  border-radius: 0px;
   width: 125px;
-    height: 45px;
-    position: absolute;
-    left: 203px;
-    top: 1600px;
-}
-.follow-me {
-  color: #ffffff;
-  text-align: center;
-  font-family: "Laila-SemiBold", sans-serif;
-  font-size: 15px;
-    font-weight: 600;
-    position: absolute;
-    left: 230px;
-    top: 1614px;
+  height: 45px;
+  position: absolute;
+  left: 638px;
+  top: 1199px;
+  overflow: visible;
 }
 .follow-me2 {
   color: #ffffff;
@@ -869,75 +847,85 @@
   font-size: 15px;
   font-weight: 600;
   position: absolute;
-  left: 145px;
-  top: 767px;
+  left: 662px;
+  top: 1209px;
 }
-.rectangle-100 {
-  background: rgba(248, 45, 25, 0.43);
-  border-radius: 10px;
-  width: 125px;
-  height: 45px;
+.rectangle-126 {
+  background: #fffefe;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: rgba(248, 45, 25, 0.33);
+  border-width: 3px;
+  width: 349px;
+  height: 359px;
   position: absolute;
-  left: 98px;
-  top: 2451px;
+  left: 921px;
+  top: 930px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
 }
-.about-me {
-  color: #ffffff;
-    text-align: center;
-    font-family: "Laila-SemiBold", sans-serif;
-    font-size: 15px;
-    font-weight: 600;
-    position: absolute;
-    left: 125px;
-    top: 2465px;
-}
-.rectangle-113 {
-  background: rgba(248, 45, 25, 0.43);
-  border-radius: 10px;
-  width: 125px;
-  height: 45px;
+.linkedin-icon-21-removebg-preview-6 {
+  width: 20px;
+  height: 20px;
   position: absolute;
-  left: 101px;
-  top: 3161px;
+  left: 1017px;
+  top: 965px;
+  object-fit: cover;
+  aspect-ratio: 1;
 }
-.view-all-events {
-  color: #ffffff;
-  text-align: center;
-  font-family: "Laila-SemiBold", sans-serif;
-  font-size: 15px;
-  font-weight: 600;
-  position: absolute;
-  left: 110px;
-  top: 3175px;
-}
-.x-followers {
+.instagram-followers3 {
   color: rgba(248, 45, 25, 0.5);
   text-align: center;
   font-family: "PlayfairDisplay-Regular", sans-serif;
-  font-size: 18px;
+  font-size: 15px;
   font-weight: 400;
   position: absolute;
-  left: 668px;
-  top: 1460px;
+  left: 1025px;
+  top: 1090px;
 }
-.bigbets-content2 {
+._123-k2 {
+  text-align: center;
+  font-family: "LibreBodoni-Regular", sans-serif;
+  font-size: 60px;
+  font-weight: 400;
+  position: absolute;
+  left: 1032px;
+  top: 1003px;
+}
+._123-k-2-span {
+  color: #671d1d;
+}
+._123-k-2-span2 {
+  color: rgba(248, 45, 25, 0.5);
+}
+.bigbets-content3 {
   color: #630c0c;
   text-align: center;
   font-family: "Roboto-Regular", sans-serif;
-  font-size: 18px;
+  font-size: 15px;
   font-weight: 400;
   position: absolute;
-  left: 650px;
-  top: 1355px;
+  left: 1047px;
+  top: 967px;
 }
-.rectangle-96 {
-  background: rgba(248, 45, 25, 0.43);
-  border-radius: 10px;
-     width: 125px;
-    height: 45px;
-    position: absolute;
-    left: 645px;
-    top: 1600px;
+.the-temptation-to-quit-will-be-the-greatest-just-before-you-are-about-to-succeed3 {
+  color: rgba(103, 29, 29, 0.7);
+  text-align: center;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 929px;
+  top: 1136px;
+  width: 333px;
+}
+.rectangle-127 {
+  border-radius: 0px;
+  width: 125px;
+  height: 45px;
+  position: absolute;
+  left: 1023px;
+  top: 1199px;
+  overflow: visible;
 }
 .follow-me3 {
   color: #ffffff;
@@ -946,57 +934,66 @@
   font-size: 15px;
   font-weight: 600;
   position: absolute;
-  left: 672px;
-  top: 1614px;
-}
-.linked-in-followers {
-  color: rgba(248, 45, 25, 0.5);
-  text-align: center;
-  font-family: "PlayfairDisplay-Regular", sans-serif;
-  font-size: 21px;
-  font-weight: 400;
-  position: absolute;
-  left: 1085px;
-  top: 1460px;
-}
-.bigbets-content3 {
-  color: #630c0c;
-  text-align: center;
-  font-family: "Roboto-Regular", sans-serif;
-  font-size: 18px;
-  font-weight: 400;
-  position: absolute;
-  left: 1100px;
-  top: 1358px;
-}
-.rectangle-97 {
-  background: rgba(248, 45, 25, 0.43);
-    border-radius: 10px;
-    width: 135px;
-    height: 45px;
-    position: absolute;
-    left: 1095px;
-    top: 1600px;
+  left: 1047px;
+  top: 1209px;
 }
 .follow-me4 {
   color: #ffffff;
   text-align: center;
   font-family: "Laila-SemiBold", sans-serif;
   font-size: 15px;
-    font-weight: 600;
-    position: absolute;
-    left: 1125px;
-    top: 1614px;
+  font-weight: 600;
+  position: absolute;
+  left: 151px;
+  top: 501px;
+}
+.rectangle-100 {
+  background: rgba(248, 45, 25, 0.43);
+  border-radius: 10px;
+  width: 125px;
+  height: 45px;
+  position: absolute;
+  left: 108px;
+  top: 1821px;
+}
+.about-me {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Laila-SemiBold", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  position: absolute;
+  left: 135px;
+  top: 1832px;
+}
+.rectangle-113 {
+  background: rgba(248, 45, 25, 0.43);
+  border-radius: 10px;
+  width: 149px;
+  height: 45px;
+  position: absolute;
+  left: 101px;
+  top: 2451px;
+}
+.view-all-events {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Laila-SemiBold", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  position: absolute;
+  left: 121px;
+  top: 2462px;
 }
 ._100-k {
   color: #671d1d;
   text-align: center;
   font-family: "LibreBodoni-Regular", sans-serif;
-  font-size: 95px;
+  font-size: 70px;
   font-weight: 400;
   position: absolute;
-  left: 996px;
-  top: 1923px;
+  left: 1024px;
+  top: 1435px;
 }
 .div2 {
   color: rgba(248, 45, 25, 0.4);
@@ -1005,28 +1002,28 @@
   font-size: 80px;
   font-weight: 400;
   position: absolute;
-  left: 1155px;
-  top: 2129px;
+  left: 1163px;
+  top: 1569px;
 }
 .comments {
   color: #671d1d;
   text-align: center;
   font-family: "PlayfairDisplay-Regular", sans-serif;
-  font-size: 34px;
+  font-size: 21px;
   font-weight: 400;
   position: absolute;
-  left: 1011px;
-  top: 2232px;
+  left: 1028px;
+  top: 1646px;
 }
 ._10-k {
   color: #671d1d;
   text-align: center;
   font-family: "LibreBodoni-Regular", sans-serif;
-  font-size: 95px;
+  font-size: 70px;
   font-weight: 400;
   position: absolute;
-  left: 996px;
-  top: 2129px;
+  left: 1024px;
+  top: 1574px;
 }
 .div3 {
   color: rgba(248, 45, 25, 0.4);
@@ -1035,36 +1032,36 @@
   font-size: 80px;
   font-weight: 400;
   position: absolute;
-  left: 1254px;
-  top: 2334px;
+  left: 1219px;
+  top: 1716px;
 }
 .followers {
   color: #671d1d;
   text-align: center;
   font-family: "PlayfairDisplay-Regular", sans-serif;
-  font-size: 34px;
+  font-size: 21px;
   font-weight: 400;
   position: absolute;
-  left: 1011px;
-  top: 2435px;
+  left: 1028px;
+  top: 1797px;
 }
 ._600-k {
   color: #671d1d;
   text-align: center;
   font-family: "LibreBodoni-Regular", sans-serif;
-  font-size: 95px;
+  font-size: 70px;
   font-weight: 400;
   position: absolute;
-  left: 1010px;
-  top: 2332px;
+  left: 1024px;
+  top: 1722px;
 }
 .rectangle-88 {
   background: #232323;
   width: 1440px;
   height: 524px;
   position: absolute;
-  left: 0px;
-  top: 4552px;
+  left: -1px;
+  top: 3611px;
 }
 .line-42 {
   margin-top: -1px;
@@ -1075,8 +1072,8 @@
   width: 1140px;
   height: 0px;
   position: absolute;
-  left: 150px;
-  top: 4962px;
+  left: 156px;
+  top: 4021px;
   transform-origin: 0 0;
   transform: rotate(0deg) scale(1, 1);
 }
@@ -1088,8 +1085,8 @@
   line-height: 40px;
   font-weight: 500;
   position: absolute;
-  right: 644px;
-  top: calc(50% - -2099px);
+  right: 615px;
+  top: calc(50% - -1660.5px);
 }
 .creators-creator-testimonials-client-success-stories-blog-help {
   color: #7c7c7c;
@@ -1099,8 +1096,8 @@
   line-height: 40px;
   font-weight: 500;
   position: absolute;
-  right: 457px;
-  top: calc(50% - -2099px);
+  right: 423px;
+  top: calc(50% - -1659.5px);
 }
 .about-us-careers-team-contact-us {
   color: #7c7c7c;
@@ -1110,8 +1107,19 @@
   line-height: 40px;
   font-weight: 500;
   position: absolute;
-  right: 225px;
-  top: calc(50% - -2099px);
+  right: 181px;
+  top: calc(50% - -1660.5px);
+}
+.about-us-careers-team-contact-us2 {
+  color: #7c7c7c;
+  text-align: left;
+  font-family: "PlusJakartaSans-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 40px;
+  font-weight: 500;
+  position: absolute;
+  right: 219px;
+  top: calc(50% - -1158.5px);
 }
 .copyright-2022-circle-all-rights-reserved {
   color: #9b9b9b;
@@ -1120,8 +1128,8 @@
   font-size: 12px;
   font-weight: 500;
   position: absolute;
-  right: 1055px;
-  top: calc(50% - -2464px);
+  right: 932px;
+  top: calc(50% - -1997.5px);
 }
 .privacy-policy-data-security-terms-of-service-data-security {
   color: #9b9b9b;
@@ -1130,8 +1138,8 @@
   font-size: 12px;
   font-weight: 500;
   position: absolute;
-  right: 144px;
-  top: calc(50% - -2469px);
+  right: 88px;
+  top: calc(50% - -1995.5px);
 }
 .products {
   color: #ffffff;
@@ -1142,8 +1150,8 @@
   letter-spacing: 0.2px;
   font-weight: 700;
   position: absolute;
-  left: 540px;
-  top: 4609px;
+  left: 531px;
+  top: 3697px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
@@ -1157,8 +1165,8 @@
   letter-spacing: 0.2px;
   font-weight: 700;
   position: absolute;
-  left: 834px;
-  top: 4602px;
+  left: 828px;
+  top: 3697px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
@@ -1172,8 +1180,8 @@
   letter-spacing: 0.2px;
   font-weight: 700;
   position: absolute;
-  left: 1140px;
-  top: 4602px;
+  left: 1144px;
+  top: 3697px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
@@ -1181,16 +1189,16 @@
 .group-126 {
   height: auto;
   position: absolute;
-  left: 686px;
-  top: 5002px;
+  left: 692px;
+  top: 4061px;
   overflow: visible;
 }
 .divya-s-founder-at-big-bets-ai-photoroom-removebg-preview-1 {
   width: 193px;
   height: 193px;
   position: absolute;
-  left: 42px;
-  top: 4559px;
+  left: 48px;
+  top: 3618px;
   object-fit: cover;
   aspect-ratio: 1;
 }
@@ -1200,20 +1208,20 @@
   border-style: solid;
   border-color: rgba(248, 45, 25, 0.4);
   border-width: 3px;
-  width: 88px;
-  height: 88px;
+  width: 74px;
+  height: 74px;
   position: absolute;
-  left: 258px;
-  top: 3521px;
+  left: 340px;
+  top: 2814px;
 }
 .insta-logo-5 {
-  width: 43px;
-  height: 44px;
+  width: 35px;
+  height: 35px;
   position: absolute;
-  left: 281px;
-  top: 3543px;
+  left: 360px;
+  top: 2833px;
   object-fit: cover;
-  aspect-ratio: 43/44;
+  aspect-ratio: 1;
 }
 .screenshot-2025-09-04-at-2-00-47-pm-2 {
   border-radius: 26px;
@@ -1221,7 +1229,7 @@
   height: 427px;
   position: absolute;
   left: 640px;
-  top: 2816px;
+  top: 2106px;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
   object-fit: cover;
   aspect-ratio: 685/427;
@@ -1236,98 +1244,100 @@
   height: 88px;
   position: absolute;
   left: 940px;
-  top: 2994px;
+  top: 2284px;
 }
 .insta-logo-6 {
   width: 43px;
   height: 44px;
   position: absolute;
   left: 963px;
-  top: 3016px;
+  top: 2306px;
   object-fit: cover;
   aspect-ratio: 43/44;
 }
-.article1 {
+.khushboo-b-kamal-opens-up-on-her-tv-hiatus-marriage-plans-and-career-comeback {
   color: #671d1d;
   text-align: left;
   font-family: "PlayfairDisplay-Regular", sans-serif;
   font-size: 21px;
   font-weight: 400;
   position: absolute;
-  left: 150px;
-  top: 4214px;
-  width: 320px;
+  left: 147px;
+  top: 3405px;
+  width: 301px;
   height: 139px;
 }
-.social-media {
+.follow-me-on-social-media {
   color: #671d1d;
   text-align: center;
   font-family: "PlayfairDisplay-Regular", sans-serif;
   font-size: 50px;
   font-weight: 400;
   position: absolute;
-  left: 385px;
-  top: 3409px;
+  left: 469px;
+  top: 2692px;
 }
 .instagram {
   color: #671d1d;
   text-align: center;
   font-family: "PlayfairDisplay-Regular", sans-serif;
-  font-size: 21px;
+  font-size: 15px;
   font-weight: 400;
   position: absolute;
-  left: 255px;
-  top: 3626px;
+  left: 327px;
+  top: 2894px;
+  width: 100px;
+  height: 27px;
 }
 .images-removebg-preview-1 {
-  width: 40px;
-  height: 58px;
+  width: 24px;
+  height: 35px;
   position: absolute;
-  left: 491px;
-  top: 3536px;
+  left: 540px;
+  top: 2833px;
   object-fit: cover;
-  aspect-ratio: 40/58;
+  aspect-ratio: 24/35;
 }
-.article2 {
+.khushboo-kamal-on-entering-barrister-babu-i-am-glad-to-be-working-during-these-difficult-times {
   color: #671d1d;
   text-align: left;
   font-family: "PlayfairDisplay-Regular", sans-serif;
   font-size: 21px;
   font-weight: 400;
   position: absolute;
-  left: 555px;
-  top: 4214px;
-  width: 340px;
-  height: 79px;
+  left: 576px;
+  top: 3405px;
+  width: 341px;
+  height: 111px;
 }
-.article3 {
+.fans-are-impressed-by-the-beauty-of-kadak-singh-fame-khushboo-kamal {
   color: #671d1d;
   text-align: left;
   font-family: "PlayfairDisplay-Regular", sans-serif;
   font-size: 21px;
   font-weight: 400;
   position: absolute;
-  left: 985px;
-  top: 4214px;
+  left: 984px;
+  top: 3398px;
   width: 329px;
   height: 120px;
 }
 .you-tube-full-color-icon-2017-svg-6 {
-  width: 40px;
-  height: 28px;
+  width: 50px;
+  height: 35px;
   position: absolute;
-  left: 1118px;
-  top: 3544px;
+  left: 1049px;
+  top: 2828px;
   object-fit: cover;
-  aspect-ratio: 40/28;
+  aspect-ratio: 50/35;
 }
 ._1747699401777-d-1 {
   border-radius: 26px;
   width: 305px;
   height: 195px;
   position: absolute;
-  left: 146px;
-  top: 4006px;
+  left: 135px;
+  top: 3191px;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
   object-fit: cover;
   aspect-ratio: 305/195;
@@ -1337,29 +1347,29 @@
   width: 311px;
   height: 194px;
   position: absolute;
-  left: 984px;
-  top: 4007px;
+  left: 975px;
+  top: 3191px;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
   object-fit: cover;
   aspect-ratio: 311/194;
 }
 .khushboo-kamal-34-w-yd-xpz-4315-1 {
   border-radius: 190px;
-  width: 418px;
-  height: 608px;
+  width: 327px;
+  height: 475px;
   position: absolute;
-  left: 562px;
-  top: 1913px;
+  left: 595px;
+  top: 1401px;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
   object-fit: cover;
-  aspect-ratio: 418/608;
+  aspect-ratio: 327/475;
 }
 .images-removebg-preview-2 {
   width: 20px;
   height: 29px;
   position: absolute;
-  left: 562px;
-  top: 971px;
+  left: 532px;
+  top: 696px;
   object-fit: cover;
   aspect-ratio: 20/29;
 }
@@ -1367,8 +1377,8 @@
   width: 24px;
   height: 35px;
   position: absolute;
-  left: 914px;
-  top: 806px;
+  left: 945px;
+  top: 527px;
   object-fit: cover;
   aspect-ratio: 24/35;
 }
