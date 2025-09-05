@@ -327,7 +327,7 @@
   top: 247px;
   width: 593px;
 }
-.you-can-t-win-if-you-re-losing-in-your-mind-change-your-thoughts-and-it-will-change-your-life {
+.sub-title {
   color: rgba(99, 12, 12, 0.67);
   text-align: left;
   font-family: "Roboto-Medium", sans-serif;
@@ -366,7 +366,7 @@
   font-weight: 600;
   position: absolute;
   left: 344px;
-  top: 501px;
+  top: 503px;
 }
 .check-out-my {
   color: #5f5e5e;
@@ -945,7 +945,7 @@
   font-weight: 600;
   position: absolute;
   left: 151px;
-  top: 501px;
+  top: 503px;
 }
 .rectangle-100 {
   background: rgba(248, 45, 25, 0.43);
@@ -983,7 +983,7 @@
   font-weight: 600;
   position: absolute;
   left: 121px;
-  top: 2462px;
+  top: 2465px;
 }
 ._100-k {
   color: #671d1d;
@@ -1077,7 +1077,7 @@
   transform-origin: 0 0;
   transform: rotate(0deg) scale(1, 1);
 }
-.professional-podcast-studio-content-creation-digital-marketing-lead-generation-and-lead-conversion-blogs-for-your-brands-social-growth {
+.products-footer{
   color: #7c7c7c;
   text-align: left;
   font-family: "PlusJakartaSans-Medium", sans-serif;
@@ -1085,10 +1085,10 @@
   line-height: 40px;
   font-weight: 500;
   position: absolute;
-  right: 615px;
+  right: 652px;
   top: calc(50% - -1660.5px);
 }
-.creators-creator-testimonials-client-success-stories-blog-help {
+.resources-footer {
   color: #7c7c7c;
   text-align: left;
   font-family: "PlusJakartaSans-Medium", sans-serif;
@@ -1096,10 +1096,10 @@
   line-height: 40px;
   font-weight: 500;
   position: absolute;
-  right: 423px;
+  right: 4px;
   top: calc(50% - -1659.5px);
 }
-.about-us-careers-team-contact-us {
+.company-footer{
   color: #7c7c7c;
   text-align: left;
   font-family: "PlusJakartaSans-Medium", sans-serif;
@@ -1107,19 +1107,8 @@
   line-height: 40px;
   font-weight: 500;
   position: absolute;
-  right: 181px;
+  right: 210px;
   top: calc(50% - -1660.5px);
-}
-.about-us-careers-team-contact-us2 {
-  color: #7c7c7c;
-  text-align: left;
-  font-family: "PlusJakartaSans-Medium", sans-serif;
-  font-size: 14px;
-  line-height: 40px;
-  font-weight: 500;
-  position: absolute;
-  right: 219px;
-  top: calc(50% - -1158.5px);
 }
 .copyright-2022-circle-all-rights-reserved {
   color: #9b9b9b;
@@ -1165,7 +1154,7 @@
   letter-spacing: 0.2px;
   font-weight: 700;
   position: absolute;
-  left: 828px;
+  left: 443px;
   top: 3697px;
   display: flex;
   align-items: center;
@@ -1255,16 +1244,16 @@
   object-fit: cover;
   aspect-ratio: 43/44;
 }
-.khushboo-b-kamal-opens-up-on-her-tv-hiatus-marriage-plans-and-career-comeback {
+.article1 {
   color: #671d1d;
   text-align: left;
   font-family: "PlayfairDisplay-Regular", sans-serif;
-  font-size: 21px;
+  font-size: 16px;
   font-weight: 400;
   position: absolute;
   left: 147px;
   top: 3405px;
-  width: 301px;
+  width: 300px;
   height: 139px;
 }
 .follow-me-on-social-media {
@@ -1298,19 +1287,19 @@
   object-fit: cover;
   aspect-ratio: 24/35;
 }
-.khushboo-kamal-on-entering-barrister-babu-i-am-glad-to-be-working-during-these-difficult-times {
+.article2 {
   color: #671d1d;
   text-align: left;
   font-family: "PlayfairDisplay-Regular", sans-serif;
-  font-size: 21px;
+  font-size: 16px;
   font-weight: 400;
   position: absolute;
-  left: 576px;
+  left: 567px;
   top: 3405px;
-  width: 341px;
+  width: 300px;
   height: 111px;
 }
-.fans-are-impressed-by-the-beauty-of-kadak-singh-fame-khushboo-kamal {
+.article3 {
   color: #671d1d;
   text-align: left;
   font-family: "PlayfairDisplay-Regular", sans-serif;
@@ -1319,7 +1308,7 @@
   position: absolute;
   left: 984px;
   top: 3398px;
-  width: 329px;
+  width: 300px;
   height: 120px;
 }
 .you-tube-full-color-icon-2017-svg-6 {
