@@ -949,6 +949,10 @@
   position: absolute;
   left: 151px;
   top: 503px;
+  cursor: pointer ;
+}
+.follow-me4:hover{
+    color: #f82d19;
 }
 .rectangle-100 {
   background: rgba(248, 45, 25, 0.43);
