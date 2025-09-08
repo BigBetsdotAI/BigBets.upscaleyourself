@@ -219,7 +219,7 @@
   color: #191619;
   text-align: left;
   font-family: "PlusJakartaSans-Regular", sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 400;
   position: absolute;
   left: 259px;
@@ -229,7 +229,7 @@
   color: #191619;
   text-align: left;
   font-family: "PlusJakartaSans-Regular", sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 400;
   position: absolute;
   left: 355px;
@@ -244,7 +244,7 @@
   color: #191619;
   text-align: left;
   font-family: "PlusJakartaSans-Regular", sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 400;
   position: absolute;
   left: 1046px;
@@ -254,7 +254,7 @@
   color: #191619;
   text-align: left;
   font-family: "PlusJakartaSans-Regular", sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 400;
   position: absolute;
   left: 930px;
@@ -264,7 +264,7 @@
   color: #191619;
   text-align: left;
   font-family: "PlusJakartaSans-Regular", sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 400;
   position: absolute;
   left: 486px;
@@ -301,7 +301,7 @@
   color: #191619;
   text-align: left;
   font-family: "PlusJakartaSans-Regular", sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 400;
   position: absolute;
   left: 147px;
@@ -309,7 +309,6 @@
 }
 .about-us:hover,.brands:hover,.creators:hover,.company:hover,.contact:hover{
   color: #f82d19;
-  font-size: 15px;
   cursor: pointer;
 }
 .frame-88 {
@@ -1636,8 +1635,8 @@ button.read-more a {
 .logo {
   width: 66px;
   height: 81px;
-  position: absolute;
-  left: 50%;
+  position: relative;
+  left: 700px;
   translate: -50%;
   top: 15px;
   object-fit: cover;
