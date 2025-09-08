@@ -1344,7 +1344,7 @@ button.read-more a {
   top: 0px;
   box-shadow: 0px 7px 10px 0px rgba(0, 0, 0, 0.03);
 }
-.ut-enim-ad-minima-veniam-quis-nostrum-exercitationem-ullam-corporis-suscipit-laboriosam-nisi-ut-aliquid-ex-ea-commodi-consequatur-autem-vel-eum-iure-reprehenderit {
+.client2 {
   color: #676767;
   text-align: left;
   font-family: "PlusJakartaSans-Regular", sans-serif;
@@ -1356,7 +1356,7 @@ button.read-more a {
   top: 276px;
   width: 290px;
 }
-.quis-nostrum-exercitationem-ullam-corporis-suscipit-laboriosam {
+.clientname2 {
   color: #000000;
   text-align: left;
   font-family: "PlusJakartaSans-Bold", sans-serif;
@@ -1416,7 +1416,7 @@ button.read-more a {
   left: 35px;
   top: 38px;
 }
-.coluptatem-accusantium-doloremque-laudantium-totam-rem-aperiam-aaque-ipsa-quae-ab-illo-inventore-veritatis-et-quasi-architecto-beatae-vitae-dicta-sunt-explicabo {
+.client3 {
   color: #676767;
   text-align: left;
   font-family: "PlusJakartaSans-Regular", sans-serif;
@@ -1428,7 +1428,7 @@ button.read-more a {
   top: 238px;
   width: 290px;
 }
-.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit {
+.clientname3{
   color: #000000;
   text-align: left;
   font-family: "PlusJakartaSans-Bold", sans-serif;
